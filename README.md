@@ -188,11 +188,31 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kali-linux&logoColor=white"></a>
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/cent%20os-262577?style=plastic&logo=centos&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/elementary%20os-64BAFF?style=plastic&logo=elementary&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/SerakDepMS/Serakdep-MS-Clan/raw/main/images/operating-systems.gif?raw=true" width="80%" alt="Operating Systems">
 </p>
 
 <br> 
