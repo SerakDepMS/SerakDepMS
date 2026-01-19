@@ -1,26 +1,27 @@
-<h1 align="center">Hi , I'm Db_artwork <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/SerakDepMS/Serakdep-MS-Clan/raw/main/images/coding-banner.gif?raw=true" width="100%" alt="Programming Banner">
+</p>
 
 <br>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
 	</a>
-
 </p>
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<p align="center">
+  <img src="https://github.com/SerakDepMS/Serakdep-MS-Clan/raw/main/images/programming-skills.gif?raw=true" width="80%" alt="Programming Skills">
+</p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -38,6 +39,10 @@
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+
+<p align="center">
+  <img src="https://github.com/SerakDepMS/Serakdep-MS-Clan/raw/main/images/coding-platforms.gif?raw=true" width="80%" alt="Coding Platforms">
+</p>
 
 <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -88,6 +93,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/SerakDepMS/Serakdep-MS-Clan/raw/main/images/languages.gif?raw=true" width="80%" alt="Programming Languages">
+</p>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
@@ -106,6 +115,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/SerakDepMS/Serakdep-MS-Clan/raw/main/images/frontend.gif?raw=true" width="80%" alt="Frontend Development">
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -233,20 +246,21 @@
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: My Projects & Repositories </h3></summary>
 
 ----
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/Serakdep-MS-Clan">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Serakdep-MS-Clan&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github.com/SerakDepMS/Serakdep-MS-Clan/raw/main/images/projects-banner.gif?raw=true" width="90%" alt="My Projects">
+  </p>
+  
+  <p align="center">
+	<a href="https://github.com/SerakDepMS/Serakdep-MS-Clan">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SerakDepMS&repo=Serakdep-MS-Clan&theme=tokyonight&show_owner=true" alt="Serakdep-MS-Clan" />
     	</a>
-	<a href="https://github.com/7oSkaaa/SerakDepMS">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=SerakDepMS&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/serakdepms-project">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=serakdepms-project&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SerakDepMS/serakdepms-project">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SerakDepMS&repo=serakdepms-project&theme=tokyonight&show_owner=true" alt="serakdepms-project" />
     	</a>
   </p>
 </div>
