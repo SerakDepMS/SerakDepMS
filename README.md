@@ -36,8 +36,6 @@
 - 👨‍💻 I'm a **Full Stack Developer** with extensive knowledge across multiple programming domains.
 - 🔧 Proficient in both **Frontend** and **Backend** development with deep understanding of modern frameworks.
 - 🚀 Passionate about building **scalable applications** and solving complex technical challenges.
-- 🤔 I'm currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- 💥 You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
 ## 🔥 Technical Expertise
