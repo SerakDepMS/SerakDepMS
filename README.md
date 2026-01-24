@@ -1,3 +1,12 @@
+<!-- VIDEO_START -->
+<div align="center">
+  <!-- Video animado aleatorio - Inicial -->
+  <video src="https://raw.githubusercontent.com/SerakDepMS/SerakDepMS/main/main/videos/video1.mp4" width="180" autoplay loop muted playsinline 
+         style="border-radius: 15px; border: 3px solid #C8BE25; box-shadow: 0 0 20px rgba(200, 190, 37, 0.3);">
+  </video>
+</div>
+<!-- VIDEO_END -->
+
 <h1 align="center">Hi, I'm Db_artwork <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Software+Engineer;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Always+learning+new+things"></a>
