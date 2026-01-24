@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Random Video</title>
+    <style>
+        body { margin: 0; padding: 0; background: transparent; }
+        video { 
+            display: block; 
+            border-radius: 15px; 
+            border: 3px solid #C8BE25;
+            box-shadow: 0 0 20px rgba(200, 190, 37, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <video id="videoPlayer" width="180" autoplay loop muted playsinline></video>
+    
+    <script>
+        const videos = [
+            'video1.mp4',
+            'video2.mp4',
+            'video3.mp4', 
+            'video4.mp4',
+            'video5.mp4',
+            'video6.mp4',
+            'video7.mp4',
+            'video8.mp4',
+            'video9.mp4'
+        ];
+        
+        // Aleatorio basado en día del mes
+        const day = new Date().getDate();
+        const videoIndex = (day % 8);
+        
+        const videoUrl = `https://raw.githubusercontent.com/SerakDepMS/SerakDepMS/main/main/videos/${videos[videoIndex]}`;
+        document.getElementById('videoPlayer').src = videoUrl;
+    </script>
+</body>
+</html>
