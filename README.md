@@ -1,11 +1,43 @@
-<!-- VIDEO_START -->
 <div align="center">
-  <!-- Video animado aleatorio - Inicial -->
-  <video src="https://raw.githubusercontent.com/SerakDepMS/SerakDepMS/main/videos/video1.mp4" width="180" autoplay loop muted playsinline 
+  <!-- Video animado aleatorio por sesión -->
+  <video id="randomVideo" width="180" autoplay loop muted playsinline 
          style="border-radius: 15px; border: 3px solid #C8BE25; box-shadow: 0 0 20px rgba(200, 190, 37, 0.3);">
   </video>
+  
+  <!-- Código mínimo inline para cambiar video -->
+  <script data-minimal>
+    // Solo se ejecutará en entornos que soporten JavaScript
+    // y no será visible como código en el README normal
+    (function() {
+      const videos = [
+        'video1.mp4',
+        'video2.mp4', 
+        'video3.mp4',
+        'video4.mp4',
+        'video5.mp4',
+        'video6.mp4',
+        'video7.mp4',
+        'video8.mp4',
+        'video9.mp4'
+      ];
+      
+      // Usar timestamp para aleatoriedad por sesión
+      const now = new Date();
+      const seed = now.getDate() + now.getHours();
+      const randomIndex = seed % videos.length;
+      
+      const videoUrl = `https://raw.githubusercontent.com/SerakDepMS/SerakDepMS/main/videos/${videos[randomIndex]}`;
+      
+      const videoElement = document.getElementById('randomVideo');
+      if (videoElement) {
+        videoElement.src = videoUrl;
+      }
+    })();
+  </script>
 </div>
-<!-- VIDEO_END -->
+
+<h1 align="center">Hi, I'm Db_artwork <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Resto de tu README... -->
 
 <h1 align="center">Hi, I'm Db_artwork <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
