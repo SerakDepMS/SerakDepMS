@@ -16,18 +16,9 @@
 	</a>
 </p>
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<p align="center">
-  <img src="https://github.com/SerakDepMS/Serakdep-MS-Clan/raw/main/images/programming-skills.gif?raw=true" width="80%" alt="Programming Skills">
-</p>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br><br>
 
-- 🏫 I am a `Junior` at the **Faculty of Computers & Informatics** at **Suez Canal University**.
+- 🏫 I am a `Full Stack`.
 - 🏆 2x `ACPC` Finalist.
 - 🧑‍💻 I love using **Software as a solution** for every `Problem`.
 - 💻 I am a **competitive programmer** at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
