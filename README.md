@@ -3,20 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Software+Engineer;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Always+learning+new+things"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/SerakDepMS/Serakdep-MS-Clan/raw/main/images/coding-banner.gif?raw=true" width="100%" alt="Programming Banner">
-</p>
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Db_artwork&label=Profile%20views&color=0047AB&style=plastic?" alt="Db_artwork" height=25px, width=160px/> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Db_artwork" target="_blank" height=25px, width=250px/> 
-	</a>
-</p>
-
-<br><br>
 
 - 🏫 I am a `Full Stack`.
 - 🏆 2x `ACPC` Finalist.
