@@ -1,7 +1,7 @@
 <!-- VIDEO_START -->
 <div align="center">
   <!-- Video animado aleatorio - Inicial -->
-  <video src="https://raw.githubusercontent.com/SerakDepMS/SerakDepMS/main/main/videos/video1.mp4" width="180" autoplay loop muted playsinline 
+  <video src="https://raw.githubusercontent.com/SerakDepMS/SerakDepMS/main/videos/video1.mp4" width="180" autoplay loop muted playsinline 
          style="border-radius: 15px; border: 3px solid #C8BE25; box-shadow: 0 0 20px rgba(200, 190, 37, 0.3);">
   </video>
 </div>
