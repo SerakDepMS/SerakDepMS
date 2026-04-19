@@ -741,47 +741,8 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SerakDepMS&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerakDepMS&theme=tokyonight" alt="GitHub Streak" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerakDepMS&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
-## 🚀 Featured Projects
-
-<p align="center">Here are some of my key projects that showcase my development skills</p>
-
-<div align="center">
-  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Serakdep-MS-Clan](https://github.com/SerakDepMS/Serakdep-MS-Clan)** | Clan management system with user profiles, rankings, and activity tracking | React, Node.js, MongoDB, Express |
-| **[serakdepms-project](https://github.com/SerakDepMS/serakdepms-project)** | Full-stack web application with modern UI/UX and robust backend | Vue.js, Python, PostgreSQL, Docker |
-| **[Optimizadores_Windows](https://github.com/SerakDepMS/Optimizadores_Windows)** | Windows optimization tools and scripts for system performance improvement | PowerShell, Batch, C# |
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/SerakDepMS/Serakdep-MS-Clan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SerakDepMS&repo=Serakdep-MS-Clan&theme=tokyonight&show_owner=true" width="45%" alt="Serakdep-MS-Clan"/>
-  </a>
-  <a href="https://github.com/SerakDepMS/serakdepms-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SerakDepMS&repo=serakdepms-project&theme=tokyonight&show_owner=true" width="45%" alt="serakdepms-project"/>
-  </a>
-  <br>
-  <a href="https://github.com/SerakDepMS/Optimizadores_Windows">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SerakDepMS&repo=Optimizadores_Windows&theme=tokyonight&show_owner=true" width="45%" alt="Optimizadores_Windows"/>
-  </a>
-</p>
-
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
