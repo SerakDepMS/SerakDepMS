@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/profile.gif" alt="SDMS Ecosystem" width="120" style="border-radius: 50%;">
+</p>
+
+<p align="center">
   <h1 align="center">🦅 SerakDepMS (SDMS)</h1>
   <h3 align="center">Serak Digital Mastery & Solutions</h3>
 </p>
