@@ -5,19 +5,19 @@
 
 <br>
 
-- 🏫 I am a `Full Stack` Developer.
-- 🏆 2x `ACPC` Finalist.
-- 🧑‍💻 I love using **Software as a solution** for every `Problem`.
-- 💻 I am a **competitive programmer** at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- 👨‍🎓 I'm currently learning `Computer Science` and `Software Engineering`.
-- 🤓 Always `learning new things`.
-- 👨‍💻 I'm a **Full Stack Developer** with extensive knowledge across multiple programming domains.
-- 🔧 Proficient in both **Frontend** and **Backend** development with deep understanding of modern frameworks.
-- 🚀 Passionate about building **scalable applications** and solving complex technical challenges.
+- I am a `Full Stack` Developer.
+- 2x `ACPC` Finalist.
+- I love using **Software as a solution** for every `Problem`.
+- I am a **competitive programmer** at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- I'm currently learning `Computer Science` and `Software Engineering`.
+- Always `learning new things`.
+- I'm a **Full Stack Developer** with extensive knowledge across multiple programming domains.
+- Proficient in both **Frontend** and **Backend** development with deep understanding of modern frameworks.
+- Passionate about building **scalable applications** and solving complex technical challenges.
 
 <br>
 
-## 🔥 Technical Expertise
+## Technical Expertise
 
 ### Full Stack Development
 - **Frontend**: React, Angular, Vue.js, HTML5, CSS3, JavaScript/TypeScript, Svelte, Next.js, Nuxt.js, Gatsby, Webpack, Vite
@@ -29,7 +29,7 @@
 
 <br>
 
-## 🛠️ My Skills
+## My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 
@@ -400,7 +400,7 @@
     <a href="#"><img alt = "TopCoder" src="https://img.shields.io/badge/TopCoder-%2323A9F6.svg?style=plastic&logo=topcoder&logoColor=white" /></a>
 </p>
 
-## 🐧 130+ Operating Systems Expertise
+## 130+ Operating Systems Expertise
 
 ### Linux Distributions (100+)
 
@@ -741,7 +741,7 @@
 
 <br>
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 
 <p align="center">
