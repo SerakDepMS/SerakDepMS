@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile.gif" alt="SDMS Ecosystem" width="120" style="border-radius: 50%;">
+  <img src="images/profile.gif" alt="SerakDepMS Ecosystem" width="120" style="border-radius: 50%;">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <br>
 
-- Founder & Lead Architect of **SDMS** (*Serak Digital Mastery & Solutions*).
+- Founder & Lead Architect of **SerakDepMS** (*Serak Digital Mastery & Solutions*).
 - **Full Stack Developer** with extensive, expert-level knowledge across multiple programming domains.
 - **Cybernetic Hacker Mindset**: Security-first architecture, threat auditing, and resilient systems.
 - Proficient in both **Frontend** and **Backend** development with deep understanding of modern frameworks.
