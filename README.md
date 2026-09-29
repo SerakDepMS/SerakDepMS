@@ -8,33 +8,61 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF66&center=true&vCenter=true&width=750&height=100&lines=Serak+Digital+Mastery+%26+Solutions;Full+Stack+Architect+%26+Cybersecurity+Expert;360%C2%B0+Digital+Ecosystem+Domain;130%2B+Operating+Systems+%7C+Multi-Field+Mastery"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF66&center=true&vCenter=true&width=750&height=100&lines=Serak+Digital+Mastery+%26+Solutions;Full+Stack+Architect+%26+Cybersecurity+Expert;Web+Dev+%7C+Game+Dev+%7C+Tech+Communities;130%2B+Operating+Systems+%7C+Multi-Field+Mastery"></a>
 </p>
 
 <br>
 
+**Welcome to SerakDepMS (SDMS)** — A technology ecosystem focused on comprehensive digital development. We combine a 360° strategic vision with rigorous cybersecurity, end-to-end web development, interactive video game creation, and the orchestration of thriving programming and gamer communities.
+
+- **Full Stack Architect & Cybersecurity Expert** driving impact across **web development & technology**, **video game development & gamer communities**, and **programming communities**.
 - Founder & Lead Architect of **SerakDepMS** (*Serak Digital Mastery & Solutions*).
-- **Full Stack Developer** with extensive, expert-level knowledge across multiple programming domains.
 - **Cybernetic Hacker Mindset**: Security-first architecture, threat auditing, and resilient systems.
-- Proficient in both **Frontend** and **Backend** development with deep understanding of modern frameworks.
 - Advanced mastery over **130+ Operating Systems**, low-level environments, and cloud infrastructure.
-- Passionate about building **scalable applications**, solving complex technical challenges, and using software as a solution for every problem.
+- Passionate about building **scalable applications**, **immersive game experiences**, and **collaborative tech communities**.
 
 <br>
 
-##  Technical Expertise
+## Ecosystem Impact
 
-### Full Stack Development
+### Web Development & Technology
+End-to-end web architecture, scalable enterprise solutions, high-performance APIs, and modern frontend interfaces designed as one connected digital ecosystem.
+
+### Game Development & Gamer Communities
+Creation of interactive video games, eSports tools, and community platforms that connect players, clans, and content creators across the gaming world.
+
+### Programming Communities
+Building collaborative ecosystems, open-source initiatives, hackathons, and educational spaces where developers can master new technologies together.
+
+<br>
+
+## Technical Expertise
+
+### Web & Enterprise Development
 - **Frontend**: React, Angular, Vue.js, HTML5, CSS3, JavaScript/TypeScript, Svelte, Next.js, Nuxt.js, Gatsby, Webpack, Vite
 - **Backend**: Node.js, Python (Django/Flask/FastAPI), Java (Spring/Spring Boot), PHP (Laravel/Symfony), Ruby (Ruby on Rails), Go (Gin/Echo), Rust (Actix/Rocket)
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Firebase, Cassandra, Elasticsearch, SQLite, MariaDB, Oracle, Microsoft SQL Server
 - **DevOps & Cloud**: Docker, Kubernetes, AWS, Azure, GCP, CI/CD (Jenkins, GitLab CI, GitHub Actions), Terraform, Ansible, Prometheus, Grafana, Nginx, Apache
-- **Mobile**: React Native, Flutter, Android (Java/Kotlin), iOS (Swift/Objective-C), Xamarin, Ionic, NativeScript
 - **Architecture & Security**: REST APIs, GraphQL, Microservices, WebSockets, WebRTC, gRPC, Message Queues (RabbitMQ, Kafka), Testing (Jest, Mocha, Cypress, Selenium), Web Security, DevSecOps
+
+### Game Development & Interactive Media
+- **Engines**: Unity, Unreal Engine, Godot, GameMaker, Phaser.js, Three.js, Babylon.js
+- **Languages for Games**: C# (Unity), C++ (Unreal), GDScript, Lua, JavaScript/TypeScript
+- **Game Systems**: Physics, AI, Procedural Generation, Networking, Multiplayer Architecture
+- **Community & eSports Tools**: Tournament platforms, clan management systems, streaming integrations, Discord bots
+
+### Programming Communities & Education
+- **Open Source**: Contributions, maintainership, and community-driven projects
+- **Events & Hackathons**: Organizing and mentoring at tech events, game jams, and coding challenges
+- **Mentorship**: Guiding developers from fundamentals to advanced architecture
+- **Knowledge Sharing**: Technical writing, workshops, and collaborative platforms
+
+### Mobile Development
+- React Native, Flutter, Android (Java/Kotlin), iOS (Swift/Objective-C), Xamarin, Ionic, NativeScript
 
 <br>
 
-##  My Skills & Stack
+## My Skills & Stack
 
 ### Programming Languages
 
@@ -47,6 +75,10 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%23000000.svg?style=plastic&logo=c%2B%2B&logoColor=00FF66">
   </a> 
+  &emsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-%23000000.svg?style=plastic&logo=c-sharp&logoColor=00FF66">
+  </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=plastic&logo=javascript&logoColor=00FF66">
@@ -103,10 +135,6 @@
     <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%23000000.svg?style=plastic&logo=elixir&logoColor=00FF66">
   </a>
   &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%23000000.svg?style=plastic&logo=c-sharp&logoColor=00FF66">
-  </a>
-  &emsp;
   <a href="https://fsharp.org/" target="_blank">
     <img alt="F#" src="https://img.shields.io/badge/F%23-%23000000.svg?style=plastic&logo=fsharp&logoColor=00FF66">
   </a>
@@ -142,9 +170,6 @@
   <a href="https://www.adaic.org/" target="_blank">
     <img alt="Ada" src="https://img.shields.io/badge/Ada-%23000000.svg?style=plastic&logo=ada&logoColor=00FF66">
   </a>
-</p>
-
-<p align="center">
   &emsp;
   <a href="https://fortran-lang.org/" target="_blank">
     <img alt="Fortran" src="https://img.shields.io/badge/Fortran-%23000000.svg?style=plastic&logo=fortran&logoColor=00FF66">
@@ -327,6 +352,25 @@
   </a>
 </p>
 
+### Game Development & Interactive Media
+
+<p align="center">
+  &emsp;
+    <a href="https://unity.com/" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?style=plastic&logo=unity&logoColor=00FF66"></a>
+  &emsp;
+    <a href="https://www.unrealengine.com/" target="_blank"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-%23000000.svg?style=plastic&logo=unreal-engine&logoColor=00FF66"></a>
+  &emsp;
+    <a href="https://godotengine.org/" target="_blank"><img alt="Godot" src="https://img.shields.io/badge/Godot-%23000000.svg?style=plastic&logo=godot-engine&logoColor=00FF66"></a>
+  &emsp;
+    <a href="https://www.blender.org/" target="_blank"><img alt="Blender" src="https://img.shields.io/badge/Blender-%23000000.svg?style=plastic&logo=blender&logoColor=00FF66"></a>
+  &emsp;
+    <a href="https://threejs.org/" target="_blank"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23000000.svg?style=plastic&logo=three.js&logoColor=00FF66"></a>
+  &emsp;
+    <a href="https://phaser.io/" target="_blank"><img alt="Phaser" src="https://img.shields.io/badge/Phaser-%23000000.svg?style=plastic&logo=phaser&logoColor=00FF66"></a>
+  &emsp;
+    <a href="https://www.babylonjs.com/" target="_blank"><img alt="Babylon.js" src="https://img.shields.io/badge/Babylon.js-%23000000.svg?style=plastic&logo=babylondotjs&logoColor=00FF66"></a>
+</p>
+
 ### Software & Tools
 
 <p align="center">
@@ -409,347 +453,235 @@
 
 <br>
 
-##  130+ Operating Systems Expertise
+## 130+ Operating Systems Expertise — Full List
 
-### Linux Distributions (100+)
+### Linux Distributions (85)
 
-<div align="center">
-<table>
-<tr>
-<td>
+1. Ubuntu
+2. Debian
+3. Fedora
+4. Arch Linux
+5. Linux Mint
+6. openSUSE
+7. CentOS
+8. Red Hat Enterprise Linux
+9. Slackware
+10. Gentoo
+11. Manjaro
+12. elementary OS
+13. Zorin OS
+14. Pop!_OS
+15. MX Linux
+16. Deepin
+17. Kali Linux
+18. Parrot OS
+19. Tails
+20. Alpine Linux
+21. Kubuntu
+22. Xubuntu
+23. Lubuntu
+24. Ubuntu MATE
+25. Ubuntu Budgie
+26. Ubuntu Studio
+27. Linux Lite
+28. SparkyLinux
+29. BunsenLabs
+30. CrunchBang++
+31. Devuan
+32. Knoppix
+33. PureOS
+34. Q4OS
+35. SolydXK
+36. SteamOS
+37. Trisquel
+38. Voyager
+39. EndeavourOS
+40. ArcoLinux
+41. Garuda Linux
+42. Artix Linux
+43. RebornOS
+44. BlackArch
+45. ArchLabs
+46. ArchBang
+47. Chakra Linux
+48. Parabola GNU/Linux
+49. ArchStrike
+50. Archman
+51. Bluestar Linux
+52. Obarun
+53. SwagArch
+54. ArchEX
+55. ArchMerge
+56. Oracle Linux
+57. Rocky Linux
+58. AlmaLinux
+59. Scientific Linux
+60. Clear Linux
+61. Qubes OS
+62. Berry Linux
+63. BLAG Linux
+64. EulerOS
+65. Fusion Linux
+66. LinHES
+67. Asianux
+68. Miracle Linux
+69. Red Flag Linux
+70. Void Linux
+71. NixOS
+72. Bedrock Linux
+73. Puppy Linux
+74. Tiny Core Linux
+75. Slax
+76. Porteus
+77. GoboLinux
+78. Calculate Linux
+79. Sabayon
+80. Frugalware
+81. PCLinuxOS
+82. 4MLinux
+83. antiX
+84. Bodhi Linux
+85. CoreOS
+86. Damn Small Linux
+87. Elive
+88. Raspbian (Raspberry Pi OS)
+89. LibreELEC
+90. OSMC
+91. OpenWrt
 
-**Popular Distributions:**
-- Ubuntu
-- Debian
-- Fedora
-- Arch Linux
-- Linux Mint
-- openSUSE
-- CentOS
-- Red Hat Enterprise Linux
-- Slackware
-- Gentoo
-- Manjaro
-- elementary OS
-- Zorin OS
-- Pop!_OS
-- MX Linux
-- Deepin
-- Kali Linux
-- Parrot OS
-- Tails
-- Alpine Linux
+### Mobile Operating Systems (22)
 
-</td>
-<td>
+92. Android
+93. LineageOS
+94. /e/ OS
+95. Replicant
+96. Ubuntu Touch
+97. Sailfish OS
+98. Plasma Mobile
+99. postmarketOS
+100. LuneOS
+101. Tizen
+102. KaiOS
+103. HarmonyOS
+104. Fire OS
+105. Wear OS
+106. Chrome OS
+107. Fuchsia
+108. iOS
+109. iPadOS
+110. watchOS
+111. tvOS
+112. macOS
+113. Darwin
 
-**Debian-based:**
-- Ubuntu (all flavors)
-- Kubuntu
-- Xubuntu
-- Lubuntu
-- Ubuntu MATE
-- Ubuntu Budgie
-- Ubuntu Studio
-- Linux Lite
-- SparkyLinux
-- BunsenLabs
-- CrunchBang++
-- Devuan
-- Knoppix
-- PureOS
-- Q4OS
-- SolydXK
-- SteamOS
-- Tails
-- Trisquel
-- Voyager
+### Windows Family (15)
 
-</td>
-<td>
+114. Windows 11
+115. Windows 10
+116. Windows 8.1
+117. Windows 8
+118. Windows 7
+119. Windows Vista
+120. Windows XP
+121. Windows 2000
+122. Windows ME
+123. Windows 98
+124. Windows 95
+125. Windows NT
+126. Windows CE
+127. Windows Mobile
+128. Windows Phone
 
-**Arch-based:**
-- Arch Linux
-- Manjaro
-- EndeavourOS
-- ArcoLinux
-- Garuda Linux
-- Artix Linux
-- RebornOS
-- BlackArch
-- ArchLabs
-- ArchBang
-- Chakra Linux
-- Antergos (discontinued)
-- Parabola GNU/Linux
-- ArchStrike
-- Archman
-- Bluestar Linux
-- Obarun
-- SwagArch
-- ArchEX
-- ArchMerge
+### Unix / BSD Family (18)
 
-</td>
-</tr>
-<tr>
-<td>
+129. FreeBSD
+130. OpenBSD
+131. NetBSD
+132. DragonFly BSD
+133. TrueOS
+134. GhostBSD
+135. MidnightBSD
+136. NomadBSD
+137. helloSystem
+138. Solaris
+139. OpenSolaris
+140. illumos
+141. AIX
+142. HP-UX
+143. IRIX
 
-**Fedora/RHEL-based:**
-- Fedora Workstation
-- Fedora Server
-- CentOS
-- Red Hat Enterprise Linux
-- Oracle Linux
-- Rocky Linux
-- AlmaLinux
-- Scientific Linux
-- Clear Linux
-- Qubes OS
-- Berry Linux
-- BLAG Linux
-- EulerOS
-- Fusion Linux
-- LinHES
-- Asianux
-- Miracle Linux
-- Red Flag Linux
-- Chinese Linux Extension
+### Real-Time & Embedded OS (14)
 
-</td>
-<td>
+144. VxWorks
+145. QNX
+146. INTEGRITY
+147. ThreadX
+148. FreeRTOS
+149. Zephyr
+150. Contiki
+151. TinyOS
+152. RIOT
+153. eCos
+154. µC/OS
+155. Nucleus RTOS
+156. Android Things
+157. Windows IoT
 
-**Independent/Specialized:**
-- Void Linux
-- NixOS
-- Bedrock Linux
-- Puppy Linux
-- Tiny Core Linux
-- Slax
-- Porteus
-- GoboLinux
-- Calculate Linux
-- Sabayon
-- Frugalware
-- PCLinuxOS
-- 4MLinux
-- Alpine Linux
-- antiX
-- Bodhi Linux
-- BunsenLabs
-- CoreOS
-- Damn Small Linux
-- Elive
+### Gaming & Console OS (12)
 
-</td>
-<td>
+158. PlayStation OS
+159. Xbox System Software
+160. Nintendo Switch OS
+161. Wii System Software
+162. 3DS System Software
+163. PS Vita System Software
+164. Batocera
+165. RetroPie
+166. Lakka
+167. Recalbox
+168. ChimeraOS
 
-**Mobile/Embedded:**
-- Android
-- LineageOS
-- /e/ OS
-- Replicant
-- Ubuntu Touch
-- Sailfish OS
-- Plasma Mobile
-- postmarketOS
-- LuneOS
-- Tizen
-- KaiOS
-- HarmonyOS
-- Fire OS
-- Wear OS
-- Chrome OS
-- Fuchsia
-- Raspbian (Raspberry Pi OS)
-- LibreELEC
-- OSMC
-- OpenWrt
+### Cloud & Virtualization Platforms (10)
 
-</td>
-</tr>
-</table>
-</div>
+169. VMware ESXi
+170. Proxmox VE
+171. XenServer
+172. Hyper-V
+173. Oracle VM
+174. KVM
+175. OpenStack
+176. CloudStack
+177. oVirt
+178. OpenNebula
 
-### Mobile Operating Systems (20+)
+**Total: 178 Operating Systems & Platforms**
 
-<div align="center">
-<table>
-<tr>
-<td>
+<br>
 
-**Android-based:**
-- Android
-- LineageOS
-- Pixel Experience
-- Paranoid Android
-- Resurrection Remix
-- Evolution X
-- crDroid
-- ArrowOS
-- Havoc-OS
-- AOSPA (Paranoid Android)
-- OmniROM
-- RevengeOS
-- Bliss OS
-- Pixys OS
-- Corvus OS
-- DerpFest
-- Syberia Project
-- StagOS
-- Nusantara Project
-- Cherish OS
+## Active Terminals
 
-</td>
-<td>
+- **Live Operations (Portfolio):** [serakdepms.github.io/SerakDepMS-Studios](https://serakdepms.github.io/SerakDepMS-Studios/)
+- **GitHub Repository:** [github.com/SerakDepMS](https://github.com/SerakDepMS)
+- **Secure Comms (WhatsApp):** [Initialize Chat](https://wa.me/SerakDepMS?text=Hello%20SerakDepMS,%20I%20need%20software%20architecture%20and%20development.)
+- **LinkedIn Network:** [linkedin.com/in/SerakDepMS](https://www.linkedin.com/in/SerakDepMS)
+- **X / Twitter Terminal:** [x.com/SerakDepMS_STOS](https://x.com/SerakDepMS_STOS)
+- **Facebook:** [facebook.com/SerakDepMS](https://www.facebook.com/SerakDepMS)
+- **Instagram:** [instagram.com/serakdepms_oficial](https://www.instagram.com/serakdepms_oficial?stkn=bnhsYmVncnpjc3Vv)
 
-**iOS & Apple:**
-- iOS
-- iPadOS
-- watchOS
-- tvOS
-- macOS (mobile features)
-- Darwin (base)
+<br>
 
-</td>
-<td>
+## Core Directive
 
-**Other Mobile OS:**
-- HarmonyOS
-- EMUI
-- MIUI
-- One UI
-- ColorOS
-- OxygenOS
-- Realme UI
-- Funtouch OS
-- ZenUI
-- Xperia UI
+> *"We don't just write code: we design digital ecosystems built to scale, perform at the highest level, and foster vibrant communities in web, gaming, and programming."*
 
-</td>
-</tr>
-</table>
-</div>
-
-### Specialized & Historical OS
-
-<div align="center">
-<table>
-<tr>
-<td>
-
-**Windows Family:**
-- Windows 11
-- Windows 10
-- Windows 8.1
-- Windows 8
-- Windows 7
-- Windows Vista
-- Windows XP
-- Windows 2000
-- Windows ME
-- Windows 98
-- Windows 95
-- Windows NT
-- Windows CE
-- Windows Mobile
-- Windows Phone
-
-</td>
-<td>
-
-**Unix/BSD Family:**
-- FreeBSD
-- OpenBSD
-- NetBSD
-- DragonFly BSD
-- TrueOS
-- GhostBSD
-- MidnightBSD
-- NomadBSD
-- helloSystem
-- macOS
-- Darwin
-- iOS
-- iPadOS
-- Solaris
-- OpenSolaris
-- illumos
-- AIX
-- HP-UX
-- IRIX
-
-</td>
-<td>
-
-**Real-time & Embedded:**
-- VxWorks
-- QNX
-- INTEGRITY
-- ThreadX
-- FreeRTOS
-- Zephyr
-- Contiki
-- TinyOS
-- RIOT
-- eCos
-- µC/OS
-- Nucleus RTOS
-- Android Things
-- Windows IoT
-- Embedded Linux
-- Yocto Project
-- Buildroot
-- OpenEmbedded
-
-</td>
-</tr>
-</table>
-</div>
-
-### Gaming & Console OS
-
-<div align="center">
-<table>
-<tr>
-<td>
-
-**Console Systems:**
-- PlayStation OS
-- Xbox System Software
-- Nintendo Switch OS
-- Wii System Software
-- 3DS System Software
-- PS Vita System Software
-- SteamOS
-- Batocera
-- RetroPie
-- Lakka
-- Recalbox
-- ChimeraOS
-
-</td>
-<td>
-
-**Cloud & Virtualization:**
-- VMware ESXi
-- Proxmox VE
-- XenServer
-- Hyper-V
-- Oracle VM
-- KVM
-- OpenStack
-- CloudStack
-- oVirt
-- OpenNebula
-
-</td>
-</tr>
-</table>
-</div>
+We believe in **security by design**, **continuous learning**, and **rigorous architectural planning** as the foundational pillars to build applications and communities that dominate the digital space.
 
 <br>
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Grid"/>
+</p>
+
+<p align="center">
+  <i>“Deploying secure ecosystems and empowering communities, one tactical commit at a time.”</i>
 </p>
