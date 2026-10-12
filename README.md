@@ -685,7 +685,7 @@ Operado bajo la denominación **SerakDepMS Studios**. Construcción y gestión d
 - **LinkedIn:** [linkedin.com/in/SerakDepMS](https://www.linkedin.com/in/SerakDepMS)
 - **X / Twitter:** [x.com/SerakDepMS_STOS](https://x.com/SerakDepMS_STOS)
 - **Facebook:** [facebook.com/SerakDepMS](https://www.facebook.com/SerakDepMS)
-- **Instagram:** [instagram.com/serakdepms_oficial](https://www.instagram.com/serakdepms_oficial)
+- **Instagram:** [instagram.com/serakdepms](https://www.instagram.com/serakdepms)
 
 <br>
 
