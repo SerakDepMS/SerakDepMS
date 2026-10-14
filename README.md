@@ -1,27 +1,28 @@
 ﻿<p align="center">
-  <img src="images/profile.gif" alt="SerakDepMS Ecosystem" width="120" style="border-radius: 50%;">
+  <img src="images/profile.gif" alt="SerakDepMS Studios Ecosystem" width="120" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  <h1 align="center">🦅 SerakDepMS (SDMS)</h1>
-  <h3 align="center">Serak Digital Mastery & Solutions</h3>
+  <h1 align="center">🦅 SerakDepMS Studios (SDMSS)</h1>
+  <h3 align="center">Serak Digital Mastery Studios Solutions</h3>
 </p>
 
 <p align="center">
-  <strong>Empresa matriz del ecosistema digital. Desarrollo web, videojuegos y comunidades de programación.<br>
-  Comunidades oficiales operadas bajo SerakDepMS Studios.</strong>
+  <strong>Empresa tecnológica del ecosistema digital. Desarrollo web, videojuegos, ciberseguridad y comunidades tech.<br>
+  Operando bajo la identidad de marca SDMS.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF66&center=true&vCenter=true&width=750&height=100&lines=Serak+Digital+Mastery+%26+Solutions;Full+Stack+Architect+%26+Cybersecurity+Expert;Web+Dev+%7C+Game+Dev+%7C+Tech+Communities;130%2B+Operating+Systems+%7C+Multi-Field+Mastery"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF66&center=true&vCenter=true&width=750&height=100&lines=Serak+Digital+Mastery+Studios+Solutions;Full+Stack+Architect+%26+Cybersecurity+Expert;Web+Dev+%7C+Game+Dev+%7C+Tech+Communities;130%2B+Operating+Systems+%7C+Multi-Field+Mastery"></a>
 </p>
 
 <br>
 
-SerakDepMS is the parent company of the digital ecosystem. We lead and operate the core technology stack, enterprise-grade digital architecture, cybersecurity, and high-impact solutions across web, gaming, and community-driven innovation. The official communities in the ecosystem are operated under the **SerakDepMS Studios** brand, while the strategic and technical direction remains anchored in **SerakDepMS**.
+**SerakDepMS Studios** (Serak Digital Mastery Studios Solutions) es la empresa tecnológica del ecosistema digital. Lideramos y operamos el stack técnico principal, la arquitectura digital empresarial, la ciberseguridad y soluciones de alto impacto a través de web, gaming e innovación comunitaria. Las comunidades oficiales del ecosistema se operan bajo la misma marca **SerakDepMS Studios**, unificando la visión estratégica y técnica bajo una sola identidad.
 
-- **SerakDepMS** — Empresa matriz del ecosistema. Desarrollo web, arquitectura, ciberseguridad y DevOps.
-- **SerakDepMS Studios** — Denominación oficial de las comunidades (Gamer y Devs).
+- **SerakDepMS Studios (SDMSS)** — Empresa tecnológica del ecosistema. Desarrollo web, videojuegos, ciberseguridad, diseño gráfico y DevOps.
+- **Serak Digital Mastery Studios Solutions** — Significado oficial de las siglas SDMSS.
+- **SDMS** — Abreviatura visual de marca.
 - **130+ OS Mastery** — Maestría técnica en sistemas operativos, infraestructura y cloud.
 - **Three Pillars** — Web Development & Technology · Game Development & Gamer Communities · Programming Communities.
 - **Security by Design** — Arquitectura segura, auditoría de amenazas y sistemas resilientes.
@@ -31,7 +32,7 @@ SerakDepMS is the parent company of the digital ecosystem. We lead and operate t
 ## Ecosystem Impact
 
 ### Pillar 1 — Web Development & Technology
-Bajo el sello técnico de **SerakDepMS**. Arquitectura web, soluciones empresariales escalables, APIs de alto rendimiento, ciberseguridad y DevSecOps.
+Bajo el sello técnico de **SerakDepMS Studios**. Arquitectura web, soluciones empresariales escalables, APIs de alto rendimiento, ciberseguridad y DevSecOps.
 
 ### Pillar 2 — Game Development & Gamer Communities
 Operado bajo la denominación **SerakDepMS Studios**. Creación de videojuegos, herramientas para eSports y gestión de las **12 divisiones Gamer**.
@@ -44,12 +45,16 @@ Operado bajo la denominación **SerakDepMS Studios**. Construcción y gestión d
 ## Official Communities
 
 ### 🎮 Gamer Community — SerakDepMS Studios
-12 divisiones competitivas: Roblox, Minecraft, Call of Duty, Fortnite, Free Fire, Valorant, Among Us, Counter-Strike 2, FC Mobile, Clash Royale, Guardian Tales, Blood Strike.
+12 divisiones competitivas: Roblox, Minecraft, Call of Duty, Fortnite, Free Fire, Valorant, Among Us, Counter-Strike 2, FIFA, Clash Royale, Guardian Tales, Blood Strike.
 🔗 https://serakdepms.github.io/Serakdep-MS-Clan-Official/
 
 ### 💻 Programming Community — SerakDepMS Studios
 8 divisiones técnicas: Python & Data Science, Web Development, Backend & APIs, Mobile Development, Game Development, Cybersecurity & DevSecOps, AI & Machine Learning, Algoritmos & Competitive.
 🔗 https://serakdepms.github.io/Serakdep-MS-Devs-Official/
+
+### 🛠️ Open Source DevKit — SerakDepMS Studios
+Repositorio colaborativo open-source con herramientas, snippets y librerías de todas las divisiones técnicas.
+🔗 https://github.com/SerakDepMS/serakdepms-devkit
 
 <br>
 
@@ -677,15 +682,16 @@ Operado bajo la denominación **SerakDepMS Studios**. Construcción y gestión d
 
 ## Active Terminals
 
-- **Portfolio (SerakDepMS):** [serakdepms.github.io/SerakDepMS-Studios](https://serakdepms.github.io/SerakDepMS-Studios/)
+- **Portfolio (SerakDepMS Studios):** [serakdepms.github.io/SerakDepMS-Studios](https://serakdepms.github.io/SerakDepMS-Studios/)
 - **Comunidad Gamer (SerakDepMS Studios):** [serakdepms.github.io/Serakdep-MS-Clan-Official](https://serakdepms.github.io/Serakdep-MS-Clan-Official/)
 - **Comunidad Devs (SerakDepMS Studios):** [serakdepms.github.io/Serakdep-MS-Devs-Official](https://serakdepms.github.io/Serakdep-MS-Devs-Official/)
+- **DevKit (Open Source):** [github.com/SerakDepMS/serakdepms-devkit](https://github.com/SerakDepMS/serakdepms-devkit)
 - **GitHub Org:** [github.com/SerakDepMS](https://github.com/SerakDepMS)
 - **WhatsApp:** [wa.me/SerakDepMS](https://wa.me/SerakDepMS)
 - **LinkedIn:** [linkedin.com/in/SerakDepMS](https://www.linkedin.com/in/SerakDepMS)
-- **X / Twitter:** [x.com/SerakDepMS_STOS](https://x.com/SerakDepMS_STOS)
+- **X / Twitter:** [x.com/serakdepms](https://x.com/serakdepms)
 - **Facebook:** [facebook.com/SerakDepMS](https://www.facebook.com/SerakDepMS)
-- **Instagram:** [instagram.com/serakdepms](https://www.instagram.com/serakdepms)
+- **Instagram:** [instagram.com/serakdepmsstudios](https://www.instagram.com/serakdepmsstudios)
 
 <br>
 
@@ -706,6 +712,5 @@ We believe in **security by design**, **continuous learning**, and **rigorous ar
 </p>
 
 ---
-© 2026 SerakDepMS. All rights reserved.
-Serak Digital Mastery & Solutions
 
+© 2026 SerakDepMS Studios · Serak Digital Mastery Studios Solutions
